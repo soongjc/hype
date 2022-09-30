@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "436161211841",
+    "project_id": "hype-poc",
+    "storage_bucket": "hype-poc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436161211841:android:3eefcb7962b459776a5340",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436161211841-3q35ddvksd6o0li0ip9i119i6ttv5vn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5D3u0FeamfvC2oTlcF6lNQIizTLjPYGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436161211841-3q35ddvksd6o0li0ip9i119i6ttv5vn2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "436161211841-12ofqhq0n6l2dl9l81ctk5n6r17dasrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hello"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
